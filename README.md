@@ -8,4 +8,4 @@
 
 ➜ currently learning more about front-end development, web design and programming languages
 
-➜ digital artist in my free time 
+➜ <a href="https://sisachis.tumblr.com/">digital artist</a> in my free time 
