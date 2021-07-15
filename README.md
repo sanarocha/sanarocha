@@ -6,6 +6,6 @@
 
 ➜ 18 years old
 
-➜ currently learning more about front-end development and programming languages  
+➜ currently learning more about front-end development, web design and programming languages
 
 ➜ digital artist in my free time 
