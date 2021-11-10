@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/xThtayhFCUiob1hFG8/giphy.gif" height="250" width="250">
 
 ### hi! welcome to my profile .｡.:*☆
-➜ 8 years old 
+➜ 18 years old 
 
 ➜ computer science student (FURB)
 
