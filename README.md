@@ -4,6 +4,8 @@
 ### hi! welcome to my profile .｡.:*☆
 
 ➜ computer science student (FURB)
+
 ➜ working at PremierSoft as a Junior iOS Developer 
+
 ➜ currently learning more about iOS development and programming languages
 
