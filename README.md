@@ -5,5 +5,5 @@
 
 ➜ iOS Developer and Computer Science student
 
-➜ currently learning more about mobile development and programming languages
+➜ currently learning more about mobile app development and programming languages
 
