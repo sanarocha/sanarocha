@@ -4,5 +4,6 @@
 ### hi! welcome to my profile .｡.:*☆
 
 ➜ iOS Developer and Computer Science student
+
 ➜ currently learning more about mobile development and programming languages
 
