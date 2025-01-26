@@ -25,9 +25,6 @@ engaging in do-it-yourself programming projects!
 </table>
 
 <div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarocha&layout=compact&theme=cobalt" alt="Top Languages" />
-  </a>
   <br />
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=16&pause=1000&color=CEFFF5&center=true&width=435&lines=thanks+for+visiting!" alt="Typing SVG" />
