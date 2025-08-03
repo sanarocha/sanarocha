@@ -1,5 +1,5 @@
 ```csharp
-// hi! i'm Rossana (｡•̀ᴗ-)✧
+// hi! i'm Rossana ( ´ ▿ ` )
 public class DeveloperProfile
 {
     // basic info
@@ -9,8 +9,8 @@ public class DeveloperProfile
     public string CurrentRole = "Backend Developer at Serasa/PagueVeloz";
 
     // personal stuff
-    public List<string> Hobbies = new() { "games", "retro tech" };
-    public int Cats = 2; // =＾● ⋏ ●＾=
+    public List<string> Hobbies = new() { "games", "retro tech", "books" };
+    public int Cats = 2; // ᓚ₍ ^. .^₎
 
     // tech arsenal 
     public List<string> Backend = new() { "C#", ".NET" };
@@ -19,7 +19,7 @@ public class DeveloperProfile
     // i'm always trying to build something new
     public List<string> CurrentFocus = new()
     {
-        "fullstack (personal & product projects)",
+        "fullstack (personal & freelance projects)",
         "learning through DIY programming"
     };
 }
